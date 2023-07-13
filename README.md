@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jogi Lokesh Kumar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 
 <img align ="right" alt = "coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jogilokeshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="jogilokeshkumar" /> </p>
